@@ -1,0 +1,8 @@
+ads.google.com
+pagead2.googlesyndication.com
+adservice.google.com
+tracking.example.com
+analytics.google.com
+stats.g.doubleclick.net
+connect.facebook.net
+pixel.facebook.com
